@@ -7,7 +7,7 @@ description = "The ls -R command with Nerd Fonts icons and indentation"
 readme = "README.md"
 homepage = "https://github.com/maverik-io"
 repository = "https://github.com/maverik-io/lsr-rust"
-keywords = ["cli", "ls", "nerd-fonts", "icons", "tree", "indentation"]
+keywords = ["cli", "ls", "nerd-fonts", "icons"]
 categories = ["command-line-utilities"]
 
 [dependencies]
