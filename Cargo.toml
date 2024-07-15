@@ -1,8 +1,14 @@
 [package]
 name = "lsr"
 version = "0.1.0"
-edition = "2021"
+authors = ["Joseph Chacko <josephchacko2006@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "The ls -R command with Nerd Fonts icons and indentation"
+readme = "README.md"
+homepage = "https://github.com/maverik-io"
+repository = "https://github.com/maverik-io/lsr-rust"
+keywords = ["cli", "ls", "nerd-fonts", "icons", "tree", "indentation"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 termsize = "0.1.8"
-
