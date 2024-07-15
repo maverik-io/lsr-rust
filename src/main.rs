@@ -59,8 +59,6 @@ fn print_dir_contents(dir: &std::path::Path, indent: u32, args: &Vec<String>) {
             Some("ogg") => icon = String::from("  󰝚  "),
             Some("m4a") => icon = String::from("  󰝚  "),
             Some("opus") => icon = String::from("  󰝚  "),
-            
-
 
             Some(&_) => (),
             None => (),
