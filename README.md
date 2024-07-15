@@ -7,8 +7,6 @@ Includes indentation and Nerd Fonts icons for directories and files.
 ## Usage
 Alias the binary to `lsr` and run it in the desired directory.
 
-```bash
-
 ## Example
 ```bash
 ❯ lsr
